@@ -1,0 +1,4 @@
+# Enable tap to click on Dell M4400
+xinput set-prop "AlpsPS/2 ALPS DualPoint TouchPad" 276 1
+xinput set-prop "AlpsPS/2 ALPS DualPoint TouchPad" 280 1
+

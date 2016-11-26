@@ -1,0 +1,2 @@
+# Helps greatly with Ubuntu performance
+export UNITY_LOW_GFX_MODE=1
