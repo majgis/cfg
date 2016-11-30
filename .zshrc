@@ -88,4 +88,4 @@ source $ZSH/oh-my-zsh.sh
 alias cfg='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
 #nvm
-source .nvmrc
+source $HOME/.nvmrc
