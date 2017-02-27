@@ -94,3 +94,6 @@ alias pbcopy="xclip -sel clip"
 alias cpkey="pbcopy < ~/.ssh/id_rsa.pub"
 
 
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm

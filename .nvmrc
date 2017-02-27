@@ -1,4 +1,3 @@
-export NVM_DIR="/home/maj/.nvm"
+export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
-alias config='/usr/bin/git --git-dir=/home/maj/.cfg/ --work-tree=/home/maj'
 
